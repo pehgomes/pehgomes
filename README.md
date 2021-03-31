@@ -4,5 +4,5 @@ I'm interested in java 8+ ☕, spring 🍃, react :atom_symbol:,react native, an
 
 ## About me
 - I'm currently working on @beblueapp 💻
-- I'm like to play Outdoor sports activities and enjoy martial arts 🥊♂️🏃‍♂️🚴‍♂️
+- I'm like to play Outdoor sports activities and enjoy martial arts 🥊🏃‍🚴‍
 - I'm from Fortaleza - Brazil 🗺   🟢🟡
