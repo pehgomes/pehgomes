@@ -8,8 +8,19 @@
 <p align="left"> 
   Graduate in systems analysis and development with a degree in computer science <br>
   with over 7 years of experience in software development, always seeking new knowledge and focused on the best development solutions.
-I'm interested in java 8+ ☕ spring 🍃 react :atom_symbol: react native, angular and node 🍃.
 </p>
+
+<p>
+  I'm interested in:
+  ☕ Java
+  🍃 Spring
+  📨 RabbitMQ
+  🐳 Docker
+  ☁️ AWS
+  :atom_symbol: React React native
+  🍃 Node
+  🐍 Python
+</p>  
 
 #### My Stats
 
