@@ -6,21 +6,21 @@
 
 </span>
 <p align="left"> 
-  Graduate in systems analysis and development with a degree in computer science <br>
-  with over 7 years of experience in software development, always seeking new knowledge and focused on the best development solutions.
+  Graduate in <b>systems analysis and development<b> with a degree in <b>computer science<b> <br>
+  with over <b>7 years of experience<b> in software development, always seeking new knowledge and focused on the <b>best development solutions<b>.
 </p>
 
-<pre>
+<p>
   I'm interested in:
-  ☕ Java
-  🍃 Spring
-  📨 RabbitMQ
-  🐳 Docker
-  ☁️ AWS
-  :atom_symbol: React React native
-  🍃 Node
-  🐍 Python
-</pre>  
+  ☕ Java<br>
+  🍃 Spring<br>
+  📨 RabbitMQ<br>
+  🐳 Docker<br>
+  ☁️ AWS<br>
+  :atom_symbol: React React native<br>
+  🍃 Node<br>
+  🐍 Python<br>
+</p>  
 
 #### My Stats
 
