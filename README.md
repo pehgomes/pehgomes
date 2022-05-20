@@ -6,8 +6,8 @@
 
 </span>
 <p align="left"> 
-  Graduate in <b>systems analysis and development<b> with a degree in <b>computer science<b> <br>
-  with over <b>7 years of experience<b> in software development, always seeking new knowledge and focused on the <b>best development solutions<b>.
+  Graduate in <b>systems analysis and development</b> with a degree in <b>computer science<b/> <br>
+  with over <b>7 years of experience<b/> in software development, always seeking new knowledge and focused on the <b>best development solutions<b/>.
 </p>
 
 <p>
