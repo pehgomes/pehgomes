@@ -10,7 +10,7 @@
   with over 7 years of experience in software development, always seeking new knowledge and focused on the best development solutions.
 </p>
 
-<p>
+<pre>
   I'm interested in:
   ☕ Java
   🍃 Spring
@@ -20,7 +20,7 @@
   :atom_symbol: React React native
   🍃 Node
   🐍 Python
-</p>  
+</pre>  
 
 #### My Stats
 
